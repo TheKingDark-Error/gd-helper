@@ -1,4 +1,4 @@
- GD Helper
+#GD Helper
 
 A feature-packed Geometry Dash mod built with Geode SDK.
 
