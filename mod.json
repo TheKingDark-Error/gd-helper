@@ -1,0 +1,34 @@
+{
+    "geode": "3.9.0",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081",
+        "mac": "2.2081",
+        "ios": "2.2081"
+    },
+    "version": "v1.0.0",
+    "id": "user.gdhelper",
+    "name": "GD Helper",
+    "developer": "Your Name",
+    "description": "FPS Counter, Auto Play Bot, Click Sounds, and In-Game Settings",
+    "settings": {
+        "fps-enabled": {
+            "name": "Show FPS Counter",
+            "description": "Display FPS in top-left corner",
+            "type": "bool",
+            "default": true
+        },
+        "auto-play-enabled": {
+            "name": "Auto Play Mode",
+            "description": "Bot plays the level. Progress is NOT saved!",
+            "type": "bool",
+            "default": false
+        },
+        "click-sound-enabled": {
+            "name": "Click Sounds",
+            "description": "Play sounds on click/release",
+            "type": "bool",
+            "default": false
+        }
+    }
+}
